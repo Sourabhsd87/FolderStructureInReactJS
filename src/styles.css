@@ -8,6 +8,14 @@
   cursor: pointer;
 }
 
+.inputContainer{
+  display:flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.inputContainer > span
+
 .folder > span {
   margin: 0 5px 2px 0;
 }
